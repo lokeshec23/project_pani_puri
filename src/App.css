@@ -1,0 +1,6 @@
+.App-divided {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  margin: 10px 15px;
+}

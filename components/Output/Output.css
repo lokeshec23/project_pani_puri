@@ -1,0 +1,25 @@
+.output-container {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100dvh;
+  border: 1px solid #000;
+  margin-left: 5px;
+  border-radius: 5px;
+}
+
+.output-area {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 10px 15px;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.child {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+}
